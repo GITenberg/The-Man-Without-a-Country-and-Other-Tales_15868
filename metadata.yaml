@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/650
     wikipedia: http://en.wikipedia.org/wiki/Edward_Everett_Hale
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15868#The-Man-Without-a-Country-and-Other-Tales
 gutenberg_bookshelf:
 - Historical Fiction
 - Harvard Classics
