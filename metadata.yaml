@@ -1,0 +1,46 @@
+_repo: The-Man-Without-a-Country-and-Other-Tales_15868
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hale, Edward Everett
+    aliases:
+    - Ingham, Frederic
+    - Hale, E. E. (Edward Everett)
+    - Darragh, J. Thomas
+    - Hale, Edward E.
+    birthdate: 1822
+    deathdate: 1909
+    gutenberg_agent_id: '650'
+    url: http://www.gutenberg.org/2009/agents/650
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Everett_Hale
+description: ''
+gutenberg_bookshelf:
+- Historical Fiction
+- Harvard Classics
+gutenberg_issued: '2005-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15868'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcsh 'Historical fiction'
+- !lcsh 'Soldiers -- Fiction'
+- !lcsh 'Burr Conspiracy, 1805-1807 -- Fiction'
+- !lcsh 'Stateless persons -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Sea stories'
+- !lcsh 'Exiles -- Fiction'
+tableOfContents: The man without a country -- The last of the Florida -- A piece of
+  possible history -- The south american editor -- The old and the new, face to face
+  -- The dot and line alphabet -- The last voyage of the Resolute -- My double, and
+  how he undid me -- The children of the public -- The skeleton in the closet -- Christmas
+  waits in Boston.
+title: The Man Without a Country, and Other Tales
+url: http://www.gutenberg.org/ebooks/15868
